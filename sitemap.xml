@@ -3,19 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rafaelpardor.github.io/un-blog-improvisado/about/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rafaelpardor.github.io/un-blog-improvisado/categories/</loc>
+    <loc>/posts/que-es-un-api/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rafaelpardor.github.io/un-blog-improvisado/tags/</loc>
+    <loc>/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rafaelpardor.github.io/un-blog-improvisado/</loc>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
